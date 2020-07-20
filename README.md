@@ -4,7 +4,7 @@
 
 ### Hey there! 👋 Welcome to my profile
 
-My name is Carlos Eduardo but everybody sey <b>Cadu<b> and ...:
+My name is <b>Carlos Eduardo</b> but everybody say <b>Cadu</b> and ...:
 
  - 😄 I really like to learn
  - 📊 I'm working with Java/Angular
