@@ -1,4 +1,15 @@
-### Hi there 👋
+# Carlos Eduardo :man_technologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos404/)](https://www.linkedin.com/in/carlos404/)
+
+### Hey there! 👋 Welcome to my profile
+
+My name is Carlos Eduardo but everybody sey <b>Cadu<b> and ...:
+
+ - 😄 I really like to learn
+ - 📊 I'm working with Java/Angular
+ - 📚 I'm Currently studying Analysis and Systems Development
+ - 🌍 And I also like to travel
 
 <!--
 **Carlos404/Carlos404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
