@@ -1,6 +1,6 @@
 # Carlos Eduardo :man_technologist:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos404/)](https://www.linkedin.com/in/carlos404/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cadupg/)](https://www.linkedin.com/in/cadupg/)
 
 ### Hey there! 👋 Welcome to my profile
 
